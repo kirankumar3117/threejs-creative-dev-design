@@ -1,0 +1,20 @@
+{
+  "name": "init",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "gsap": "^3.5.1",
+    "lil-gui": "^0.18.2",
+    "three": "^0.155.0",
+    "vercel": "^32.0.1"
+  }
+}
